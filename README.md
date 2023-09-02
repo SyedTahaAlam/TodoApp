@@ -1,6 +1,6 @@
-Design:
+
 Todo Application
-Running this application require Android Studio Dolphin | 2021.3.1 Patch 1
+Running this application require Android Studio Dolphin | 2021.3.1 Patch 1 
 
 Design:
 Design of the application is straightforward it has a list that displays the todos in three
